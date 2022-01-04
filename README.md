@@ -2,4 +2,4 @@
 
 Template Preview
 ----------
-<img src="template.pdf" width="700px"/>
+<img src="template.png" width="700px"/>
